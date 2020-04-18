@@ -22,6 +22,6 @@ Only Code:- Satelitte Image Classification.ipynb
 
 This project was done in a group of two people:
 
-Shaktish Prajapati                                              Abhimanyu Singh
-11810947                                                        11800740
+Shaktish Prajapati(11810947)                                              Abhimanyu Singh(11800740)
+                                                        
 
