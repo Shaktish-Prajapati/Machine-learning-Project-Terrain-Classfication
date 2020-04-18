@@ -13,7 +13,7 @@ They can be one of 4: barren land, trees, grassland and other. Each row in the f
 If it is one, then it is that class respective to the order I showed above. If it was the above values, the image is a picture of barren land.
 If it was [0,1,0,0], then it would be trees. If it was [0,0,1,0],then it would be grassland and so on.
 
-My Work on the dataset:- https://www.kaggle.com/abhimanyuchauhan/satellite-image-classification?scriptVersionId=31652883
+My Work on the dataset:- https://drive.google.com/drive/folders/1dOs9wuAWZ6Z8RzcdFcR0t1-PnHUz6zF6
 
 Code with output:- Terrain Classification.ipynb
 
