@@ -20,7 +20,7 @@ Code with output:- Terrain Classification.ipynb
 
 Only Code:- Satelitte Image Classification.ipynb
 
-This project was done in a group of two people:
+This project was done in a group:
 
 Shaktish Prajapati(11810947)                                              Abhimanyu Singh(11800740)
                                                         
